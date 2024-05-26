@@ -1,0 +1,19 @@
+#name-banner {
+    color: rgb(94, 81, 81);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#welcome-text {
+    color: rgb(94, 81, 81);
+    font-family:'Courier New', Courier, monospace;
+    font-size: x-small;
+}
+
+#submit-box {
+
+}
+
+body {
+    background-image: url("assets/bg-forest.avif");
+    text-align: center;
+}
